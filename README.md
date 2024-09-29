@@ -63,7 +63,7 @@ musées à travers des voyages et la lecture.
  (https://formation.liguecontrelobesite.org/?redirect=0)
  - _Langage SCSS_
 ### 2015 Stage CESMED
-###Conference en LSF (Langue des Signes Française) :
+### Conference en LSF (Langue des Signes Française) :
  - _Organisation et animation d’une conférence sur la surdité_
  - _Présentation de l’histoire des sourds_
  - _Initiation à la Langue des Signes Française_
