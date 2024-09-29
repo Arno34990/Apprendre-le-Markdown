@@ -17,10 +17,10 @@ musées à travers des voyages et la lecture.
 # Expérience
 
 ### [Wild Code School 2024-25] :
- _- _
+ - 
 ### [3ème année Epitech 2023-24] :
- _-  Approfondissement du langage C++_
- _- Compréhension des concepts de la langue choisie_
+ -  _Approfondissement du langage C++_
+ - _Compréhension des concepts de la langue choisie_
  _- Utilisation des outils de compilation et des gestionnaires de dépendances utilisés par la plupart des entreprises_
  _- Comprendre comment utiliser et créer un service web_
 ### [2ème année Epitech 2021-22] :
