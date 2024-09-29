@@ -71,21 +71,21 @@ musées à travers des voyages et la lecture.
 
 ## Langues
 
-### [Anglais] :
+* [Anglais] :*
  - Niveau A2
  - Elementaire
  - TOEIC 720
-### [LSF (Langue des Signes Française)] : 
+* [LSF (Langue des Signes Française)] :* 
  - Niveau B1
  - Indépendant
 
 ## Loisirs
 
-### Informatique
-### Littérature
-### Ski
-### Parapente
-### Capoeïra
-### Cross Fit
-### Randonnée
-### Voyages
+*Informatique*
+*Littérature*
+*Ski*
+*Parapente*
+*Capoeïra*
+*Cross Fit*
+*Randonnée*
+*Voyages*
