@@ -4,6 +4,16 @@
 
 # Arnauld
 
+# Présentation
+
+Actuellement scolarisé chez Wild Code School, plus précissement dans le TSSR.
+Ayant déjà l’expérience de trois stages en entreprise.
+Je suis travailleur, volontaire et je possède une très bonne faculté d'adaptation.
+En dehors de mon engagement professionnel, je pratique de façon régulière et
+active une multitude d’activités sportives et culturelles qui nourrissent mon
+esprit et mon corps comme le vélo, le randonnée, le ski, le Cross Fit, la visite de
+musées à travers des voyages et la lecture.
+
 # Expérience
 
 ### Wild Code School 2024-25 :
@@ -32,6 +42,12 @@
 
 # Expériences Professionnelles
 
+
+### Fev-Mai 2024 Stage Cybersécurité GetYooz
+ - Travail en équipe
+ - Maitrise de base du Microsoft Azure
+ - Compréhention et mise en place d'un pare-feu entre le serveur et le client
+ - Utilisation de logiciel lié au OSINT
 ### Depuis Avril 2023 Contrat étudiant
  Carrefour Lattes: Hôte de caisse
 ### Oct-Mar 2022 Stage développeur application F.L.O.N.A
